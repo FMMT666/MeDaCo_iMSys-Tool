@@ -4,6 +4,23 @@ MeDaCo iMSys Tool
 Stay tuned, Leute ...
 
 
+
+---
+## Download der Daten
+
+Den Button "Analyse" anklickern,
+![](images/medaco_menu.png)  
+
+dann rechts den gewünschten Zählpunkt auswählen.  
+![](images/medaco_zaehlernummer.png)  
+
+In dem dann erscheinenden Diagramm die kleinste Zeiteinheit (i.d.R. 15min) oder "Original" festlegen.  
+Das Laden kann eine Weile dauern.  
+![](images/medaco_diagramm.png)  
+
+[...]
+
+
 ---
 ## NEWS
 
