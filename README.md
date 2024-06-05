@@ -28,6 +28,17 @@ Im Firefox Menü "Werkzeuge für Web-Entwickler" wählen.
 > Das muss in den Einstellungen (```about:config```) geändert werden.  
 > Wie das geht steht z.B. [hier][2].
 
+Im Menu "Netzwerkanalyse" wählen, aktivieren und neu Laden.
+![](/images/firefox_netzwerkanalyse.png)  
+
+[...]
+
+![](/images/firefox_json1.png)  
+
+![](/images/firefox_json2.png)  
+
+![](/images/firefox_json3.png)  
+
 
 [...]
 
