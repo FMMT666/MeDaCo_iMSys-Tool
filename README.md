@@ -39,6 +39,13 @@ Im Menu "Netzwerkanalyse" wählen, aktivieren und neu Laden.
 
 ![](/images/firefox_json3.png)  
 
+![](/images/firefox_json4.png)  
+
+![](/images/firefox_json5.png)  
+
+
+
+![](/images/timestamp_formats.png)  
 
 [...]
 
