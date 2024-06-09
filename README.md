@@ -47,6 +47,8 @@ Im Menu "Netzwerkanalyse" wählen, aktivieren und neu Laden.
 
 ![](/images/timestamp_formats.png)  
 
+![](/images/timestamp_formats.png)  
+
 [...]
 
 
